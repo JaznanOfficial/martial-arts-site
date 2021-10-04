@@ -1,15 +1,13 @@
 .home-div{
-    border: 1px solid black;
+    background-color: black;
+    padding: 0px 20px;
+
     margin-top: 75px;
     margin-bottom: 0;
-    /* height: 500px; */
     font-family: 'Ubuntu', sans-serif;
 }
 
-.home-div{
-    background-color: black;
-    padding: 0px 20px;
-}
+
 .home-div> h1,h3{
     color: white;
 }

@@ -17,7 +17,7 @@ const Home = () => {
             <h1>Our Some Services</h1>
             <h3>(See all of services in <span><strong>'services'</strong></span> tab)</h3>
             <div className='my-5'>
-            <Row xs={1} md={3} className="g-4">
+            <Row xs={1} md={4} className="g-5">
             {someServices.map((service) => (
                 <BottomBody
                     service={service}

@@ -12,7 +12,7 @@ const BottomBody = (props) => {
             
   
     <Col>
-      <Card className='single-card'>
+      <Card className='single-card mb-5'>
         <Card.Img variant="top" src={img} height='200px' width='200px' className='card-img' />
         <Card.Body>
           <Card.Title className='text-light'>{name}</Card.Title>

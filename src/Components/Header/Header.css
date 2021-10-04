@@ -1,7 +1,7 @@
 .nav-div{
     position: fixed;
     top: 0;
-    width: 100%;
+    width: 100% !important;
     z-index: 1;
 }
 
@@ -9,6 +9,7 @@
     height: 75px !important;
     position: fixed;
     top: 0;
+    width: 100%;
 }
 
 .custom-nav a {
