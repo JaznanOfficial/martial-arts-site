@@ -8,6 +8,7 @@ import Footer from './Components/Footer/Footer';
 import Services from './Components/Services/Services';
 import About from './Components/About/About';
 import Contact from './Components/Contact/Contact';
+import Accepted from './Components/Accepted/Accepted';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path='/services'><Services></Services></Route>
         <Route path='/about'><About></About></Route>
         <Route path='/contact'><Contact></Contact></Route>
+        <Route path='/accepted'><Accepted></Accepted></Route>
         <Route path='*'><NotFound></NotFound></Route>
         </Switch>
         <Footer></Footer>
