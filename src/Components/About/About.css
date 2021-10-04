@@ -1,0 +1,15 @@
+.about-div{
+
+    background-color: black;
+    padding: 30px 20px;
+    color: white;
+    margin-top: 75px;
+    margin-bottom: 0;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 20px 200px;
+    text-align: justify;
+}
+
+.about-div span{
+    color: #B83344;
+}
