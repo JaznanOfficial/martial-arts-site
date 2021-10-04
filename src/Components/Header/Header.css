@@ -1,5 +1,13 @@
+.nav-div{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
 .nav-bar {
     height: 75px !important;
+    position: fixed;
+    top: 0;
 }
 
 .custom-nav a {

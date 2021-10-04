@@ -6,7 +6,7 @@ import './martial-arts-logo.png'
 
 const Header = () => {
     return (
-        <div>
+        <div className='nav-div'>
             <Navbar bg="dark" variant="dark" className='p-0 nav-bar'>
                 <Container>
                     <Navbar.Brand href="#home">
