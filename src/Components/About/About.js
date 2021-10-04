@@ -9,7 +9,7 @@ const About = () => {
             </h1>
 
             <h3>
-                Fight School has specialized in martial arts since 1986 and has one of the most
+                Martial Arts Academy has specialized in martial arts since 1986 and has one of the most
                 innovative programs in the nation.
             </h3>
 
