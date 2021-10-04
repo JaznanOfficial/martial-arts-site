@@ -1,0 +1,14 @@
+.bottom-body col{
+    margin: 20px 5px;
+}
+.single-card{
+    background-image: linear-gradient(to top, #141518, #787878);
+    height: 350px;
+    box-shadow: 3px 3px 20px lightgray;
+}
+.card-img{
+    margin: 5px;
+    align-self:center;
+    width: 200px !important;
+    border-radius: 50% !important;
+}

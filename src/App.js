@@ -4,6 +4,7 @@ import Header from './Components/Header/Header';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './Components/Home/Home';
 import NotFound from './Components/NotFound/NotFound';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path='/home'><Home></Home></Route>
         <Route path='*'><NotFound></NotFound></Route>
         </Switch>
+        <Footer></Footer>
       </Router>
       
     </div>
