@@ -1,0 +1,21 @@
+.nav-bar{
+    height: 75px !important;
+}
+
+
+
+.custom-nav a{
+color: white !important;
+border-radius: 0px;
+border: 1px solid black;
+}
+
+.custom-nav a:hover{
+    background-color: white;
+    color: black !important;
+    border: 1px solid lightgray;
+}
+.custom-nav a:focus{
+    background-color: white;
+    color: black !important;
+}
