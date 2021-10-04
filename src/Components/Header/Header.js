@@ -21,8 +21,9 @@ const Header = () => {
                     <h3 className='d-inline-block align-center mt-2 text-light'>Martial Arts Academy</h3>
                     <Nav className="mx-auto custom-nav">
                         <Nav.Link href="#home">Home</Nav.Link>
-                        <Nav.Link href="#features">Features</Nav.Link>
-                        <Nav.Link href="#pricing">Pricing</Nav.Link>
+                        <Nav.Link href="#features">Services</Nav.Link>
+                        <Nav.Link href="#pricing">About Us</Nav.Link>
+                        <Nav.Link href="#pricing">Contact</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>
