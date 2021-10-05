@@ -1,22 +1,25 @@
 [
     {
        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIAH3wdxEXXlAw10GCazGCDQtPhq2or9NYxKgyjKJgQGGXr6CFG_jlvtG73wXW1LZtoQ&usqp=CAU",
+       "price":"1100 $",
        "name":"Butthan",
        "EstablishedIn":"https://europa.eu/capacity4dev/system/files/images/photo/bangladesh.gif",
        "EstablishedDate":"1981",
-       "style":"Mental & Spiritual Development (i.e. mediation),Self-Defense,Forms,Weapons (i.e. staffs, swords, etc.),Flexibility & Strength",
+       "style":"Mental & Spiritual Development ,Self-Defense,Weapons,Flexibility & Strength",
        "shortDetails":"Butthan (বুত্থান, bʊθɑːn, meaning \"Defense with distinction and awakening\") is a Bangladeshi martial art and combat sport.It is a system of self-defense and personal development rooted in South Asian heritage. Butthan has been developed by Mak Yuree, an internationally acclaimed Grandmaster and known as Superhuman as dubbed by the Discovery Channel. It has been described as the ‘noble art of stopping-fight and enlightenment that produces physical, mental and spiritual balance’. Butthan was approved as a national sport of Bangladesh by the National Sports Council, Ministry of Youth and Sports in Bangladesh in 2013. As a combat sport, the martial art is practiced in different parts of the world under the International Butthan Federation"
     },
     {
        "img":"https://thumbs.dreamstime.com/b/%CE%B4%CE%B9%CE%AC%CE%BD%CF%85%CF%83%CE%BC%CE%B1-silat-%CF%80%CE%BF%CF%85-%CF%87%CF%81%CE%B7%CF%83%CE%B9%CE%BC%CE%BF%CF%80%CE%BF%CE%B9%CE%B5%CE%AF-%CF%84%CE%BF-%CF%8C%CF%80%CE%BB%CE%BF-karambit-%CE%B8%CE%AD%CF%83%CF%84%CE%B5-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%83%CE%B9%CE%B1%CE%BA%CE%AD%CF%82-154406545.jpg",
+       "price":"1000 $",
        "name":"Pencak silat",
        "EstablishedIn":"https://cdn.britannica.com/48/1648-004-A33B72D8/Flag-Indonesia.jpg",
        "EstablishedDate":"11 March 1980",
-       "style":"Bakti Negara,Beksi,Cingkrik,Inti Ombak,Kwitang,Perisai Diri,Sabeni,Tapak Suci,Tunggal Hati Seminari",
+       "style":"Bakti Negara,Beksi,Cingkrik,Inti Ombak,Kwitang,Perisai Diri,Sabeni",
        "shortDetails":"Pencak silat  in Western writings sometimes spelled pentjak silat or phonetically as penchak silat is an umbrella term for a class of related Indonesian martial arts.The International Pencak Silat Federation IPSF or PERSILAT Persekutuan Pencak Silat Antarabangsa is the international pencak silat governing organization and the only pencak silat organisation recognised by the Olympic Council of Asia. The organisation was established on 11 March 1980 in Jakarta and consists of the national organisations of Brunei Darussalam Persekutuan Silat Kebangsaan Brunei Darussalam PERSIB, Indonesia (Ikatan Pencak Silat Indonesia IPSI, Malaysia Persekutuan Silat Kebangsaan PESAKA and Singapore Persekutuan Silat Singapura PERSISI."
     },
     {
        "img":"https://st2.depositphotos.com/3630541/6281/i/600/depositphotos_62811629-stock-photo-young-woman-giving-a-kick.jpg",
+       "price":"1000 $",
        "name":"Taekwondo",
        "EstablishedIn":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/2560px-Flag_of_South_Korea.svg.png",
        "EstablishedDate":"1940",
@@ -25,6 +28,7 @@
     },
     {
        "img":"https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=425,format=auto/sites/default/files/styles/768x768/public/d8/images/methode/2021/08/05/0543cef8-f41d-11eb-97f9-89051db5b6c1_image_hires_215614.jpg?itok=6ug71ABY&v=1628171785",
+       "price":"900 $",
        "name":"Karate",
        "EstablishedIn":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
        "EstablishedDate":"1928",
@@ -33,6 +37,7 @@
     },
     {
        "img":"https://images.squarespace-cdn.com/content/v1/583543961b631ba42727c63b/1578372341069-TXTR7QS1ZZO069YWVMMN/wayland-li-wushu-team-canada-erica-world-champion-2019-01.jpg?format=1000w",
+       "price":"1000 $",
        "name":"Wushu",
        "EstablishedIn":"https://cdn.britannica.com/90/7490-004-BAD4AA72/Flag-China.jpg",
        "EstablishedDate":"1958",
@@ -41,6 +46,7 @@
     },
     {
        "img":"https://i.pinimg.com/originals/36/36/3e/36363e9bbb71817b14bc84d94ca278c0.jpg",
+       "price":"800 $",
        "name":"Muay Thai",
        "EstablishedIn":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
        "EstablishedDate":"last of 19 century",
@@ -49,6 +55,7 @@
     },
     {
        "img":"https://www.kcpinternational.com/wp-content/uploads/2011/09/50208542308_12222e860b_c.jpg",
+       "price":"800 $",
        "name":"Judo",
        "EstablishedIn":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
        "EstablishedDate":"19 century",
@@ -57,6 +64,7 @@
     },
     {
        "img":"https://www.teamlegacyma.com/wp-content/uploads/2019/03/Jiu-Jitsu-classes-katy-tx.jpg",
+       "price":"750 $",
        "name":"Jujutsu",
        "EstablishedIn":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
        "EstablishedDate":"19 century",
@@ -65,6 +73,7 @@
     },
     {
        "img":"https://kungfukingdom.com/wp-content/uploads/2017/12/Martial-Art-of-the-Month-Aikido-Kung-Fu-Kingdom-770x472.jpg",
+       "price":"750 $",
        "name":"Aikido",
        "EstablishedIn":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
        "EstablishedDate":"19 century",
